@@ -1,0 +1,23 @@
+nav{
+    border-bottom: 10px;
+    border-bottom-style: double;
+    border-bottom-color: beige;
+    border-color: rgb(13, 48, 80);
+    background-color: rgb(12,² 3, 20);
+    
+}
+
+
+
+
+
+li {
+    display: inline-block;
+    
+    
+}
+
+body{
+background-color: rgb(29, 151, 199);
+
+}
