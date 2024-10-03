@@ -1,0 +1,40 @@
+h1{
+  
+    font-size: 3.5em;
+    color: #a5b4fc;
+    font-family: monserrat;
+    font-style:italic;
+    font-weight:bold;
+    text-decoration:underline;
+    text-align:center;
+
+
+}
+
+p{ 
+    font-size: 1.1em;
+    color: indigo;
+    font-size: 20px;
+    padding-left: 60px;
+    padding-right: 20px;
+    font-weight: bold;
+    text-align: left;
+    
+}
+
+h2{
+font-size: 1em;
+
+}
+
+h3{
+    padding: 45px;
+    background-color: green;
+    border-style: double;
+    border-radius: 10px 10px 10px;
+    border-top: solid;
+    border-right: 4px;
+    border-left: 6px;
+    border-bottom: 25px;
+
+}
